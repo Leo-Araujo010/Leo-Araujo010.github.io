@@ -1,4 +1,4 @@
-# Objetivo do projeto
+# Projeto de dados (Excel -> SQL -> Power BI)
 
 ## Limpeza de dados
 
