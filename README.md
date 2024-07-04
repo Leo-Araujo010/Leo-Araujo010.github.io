@@ -110,3 +110,7 @@ Vamos conversar com o cliente de marketing para prever o que eles também espera
 2. Negociar contratos dentro dos orçamentos alocados para cada campanha de marketing.
 3. Iniciar as campanhas e acompanhar o desempenho de cada uma delas em relação aos KPIs.
 4. Revisar como as campanhas foram, coletar insights e otimizar com base no feedback dos clientes convertidos e do público de cada canal.
+
+
+## Anexo de visualização
+![Dashboard](assets/images/Top youtubers reino unido_page-0001.jpg)
